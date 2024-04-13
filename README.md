@@ -18,5 +18,3 @@ Aby uruchomić grę, należy skompilować kod za pomocą odpowiedniego kompilato
 
 ### Zależności
 Projekt wykorzystuje bibliotekę conio2.h do obsługi konsoli w systemie Windows oraz standardowe biblioteki języka C.
-
-
